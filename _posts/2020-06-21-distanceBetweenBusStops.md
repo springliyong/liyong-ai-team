@@ -7,7 +7,7 @@
 ### 说明：  
 ![_config.yml]({{ site.baseurl }}/images/bus1.png)
 
-(http://img1.imgtn.bdimg.com/it/u=760114423,719454564&fm=15&gp=0.jpg)
+[![aa](http://img1.imgtn.bdimg.com/it/u=760114423,719454564&fm=15&gp=0.jpg)]
     
 **代码**：  
 ```java
@@ -26,8 +26,8 @@ public int distanceBetweenBusStops(int[] distance, int start, int destination) {
         return Math.min(dis,sum-dis);
 }
 ```  
+[![aa](http://img1.imgtn.bdimg.com/it/u=760114423,719454564&fm=15&gp=0.jpg)]
 
-(http://img1.imgtn.bdimg.com/it/u=760114423,719454564&fm=15&gp=0.jpg)
   
 **方法**：  
 遍历一次求出环形总距离，两站之间的一个半环距离，总站距离减去半环距离为另一个半环距离，返回两个半环距离较小的即可。  
