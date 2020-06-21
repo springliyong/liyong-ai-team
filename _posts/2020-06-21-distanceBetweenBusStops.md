@@ -7,6 +7,7 @@
 ### 说明：  
 ![_config.yml]({{ site.baseurl }}/images/bus1.png)
 
+![aa](http://img1.imgtn.bdimg.com/it/u=760114423,719454564&fm=15&gp=0.jpg)
     
 **代码**：  
 ```java
@@ -25,7 +26,7 @@ public int distanceBetweenBusStops(int[] distance, int start, int destination) {
         return Math.min(dis,sum-dis);
 }
 ```  
-[![aa](http://img1.imgtn.bdimg.com/it/u=760114423,719454564&fm=15&gp=0.jpg)]
+
 
   
 **方法**：  
