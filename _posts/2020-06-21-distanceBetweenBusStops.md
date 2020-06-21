@@ -5,6 +5,7 @@
 环线上的公交车都可以按顺时针和逆时针的方向行驶。返回乘客从出发点 start 到目的地 destination 之间的最短距离。  
   
 ### 说明：  
+![_config.yml]({{ site.baseurl }}/images/bus.jpg)
 
   
   
