@@ -1,4 +1,8 @@
-删除排序数组中的重复项
+---
+layout: post
+title: 删除排序数组中的重复项(26题)
+---
+
 
 代码：
 public int removeDuplicates(int[] nums) {
