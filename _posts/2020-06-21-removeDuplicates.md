@@ -1,15 +1,16 @@
 ---
 layout: post
-title:删除排序数组中的重复项(26题)
+title: 删除排序数组中的重复项
 ---
-**要求**：  
+
+### 要求：  
 给定一个排序数组，你需要在原地删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。  
 不要使用额外的数组空间，你必须在 原地 修改输入数组 并在使用 O(1) 额外空间的条件下完成。
 
-**说明**：
+### 说明：
 为什么返回数值是整数，但输出的答案是数组呢?  
 请注意，输入数组是以「引用」方式传递的，这意味着在函数里修改输入数组对于调用者是可见的。  
-  (https://www.mdeditor.com/images/logos/markdown.png "markdown")
+[哈哈哈哈哈哈哈哈哈哈哈哈](https://www.mdeditor.com/images/logos/markdown.png "markdown")
 **代码**：
 ```java
 public int removeDuplicates(int[] nums) {
